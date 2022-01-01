@@ -1,0 +1,68 @@
+{
+    "Name": "Ramesh Dhananjeyan",
+    "position": "Senior UI Developer",
+    "Company": "Rencata",
+    "phoneno": "91-8098798426",
+    "email" : "rameshrgcet33@gmail.com",
+    "city": "Puducherry",
+    "country": "India",
+    "linkedin": "https://www.linkedin.com/in/ramesh-d-0464222a/",
+    "job-summary": "I Have 14.5 years experience in software development. Seeking the position of a lead Full Stack Developer  to further enhance organizational worth owning to my knowledge in Angular, Typescript/Javascript, HTML5, Bootstrap, Node.js, C#/WebAPI, Mongodb. ",
+    "skills": ["Angular 2 - 10","C#/ASP.NET","HTML5","JavaScript / Typescript",
+            "Node.js","MongoDB","Jasmine/Karma","Git","Android", "Xamarin","PHP /MySQL","Elastic Search"],
+    "work-experince": [
+        {
+        "company":"Rencata",
+        "location": "Puducherry, India",
+        "designation": "Senior UI Developer",
+        "duration": "Mar 2020 - Present",
+        "summary": "Part of the Enterprise Consumer portal project, responsible for developing the new Online loan application and Online Account opening. My responsibilities include:",
+        "responsiblities": ["Analyzing the UI story and implementing UI using Angular 9/10, Node.js, Typescript, SCSS.","Analyzing the API story and implement API changes using C# MVC .net.","Prepare API response and bind with UI.", "Perform unit testing with Karma"]
+        },
+        {
+        "company":"Adappt",
+        "location": "Puducherry, India",
+        "designation": "Senior NodeJS Developer",
+        "duration": "Jun 2019 - Feb 2020",
+        "summary": "Part of the team responsible for developing and maintaining Derivedata application. This application smartly extracts the recognized pattern in web content and presents it in a complex linguistic form, allowing you to get the data you want quickly and visually. My responsibilities included:",
+        "responsiblities": ["Developing new features to the software application using Angular 6, SASS, Javascript, Typescript, HTML5 and Node.js.","Make sure all the Microservices are running for all instances.", "Bug fixing, gathering requirements and designing new solutions."]
+        },
+        {
+        "company":"TechZia",
+        "location": "Puducherry, India",
+        "designation": "Developer & Creator",
+        "duration": "Sep 2014 - May 2019",
+        "summary": "Part of the Web and Mobile apps development team responsible for creating Point of Sales, online News aggregation, video downloading tool from Social platforms like Facebook and so on. My responsibilities included:",
+        "responsiblities": ["Analyze, gathering requirements.", "Worked with the UI / UX team to build a good looking app. ", "Coding with Angular 2, Node.js, TypeScript, HTML5,CSS, Xamarin, C#.Net.", "Managed “TechZia” day today operations.", "Built Over 40+ applications for Web and mobile."]
+        },
+        {
+        "company":"XLabz Technologies Pvt Ltd.",
+        "location": "Puducherry, India",
+        "designation": "Senior PHP Developer",
+        "duration": "Mar 2011 - Aug 2014",
+        "summary": "Part of the Apps development team responsible for creating backend API’s for over 20+ apps. My responsibilities included:",
+        "responsiblities": ["Analyze requirements.", "Worked with apps development team to built API. ", "Coding in PHP, Mysql, Javascript, HTML,CSS."]
+        },
+        {
+        "company":"Smt Consulting & Ingenierie Pvt. Ltd, Puducherry, India",
+        "location": "Puducherry, India",
+        "designation": "Senior Software Engineer",
+        "duration": "Jun 2007 - Dec 2010",
+        "summary": "Part of the Web development team responsible for creating Web applications for Renault, Bostik, Webparcours, ILLE de France. My responsibilities included:",
+        "responsiblities": ["Analyze requirements.", "Coding in PHP, Mysql, Javascript, HTML,CSS."]
+        }
+    ],
+    "education":[{
+        "degree":"MCA",
+        "college": "Rajiv Gandhi College of Engineering",
+        "percentile":"76%",
+        "year":"(2004-2007)",
+        "university":"Pondicherry University, India"
+    }],
+    "certificate":[{
+        "name":"Sun Certified Java Programmer"
+    },{
+        "name":"Foundation training  in uipath"
+    }],
+    "language":"English, Tamil"
+}
